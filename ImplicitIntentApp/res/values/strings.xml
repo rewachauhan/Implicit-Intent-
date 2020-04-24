@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImplicitIntentApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn1">web browser</string>
+    <string name="btn4">choose contact</string>
+    <string name="btn2">make call</string>
+    <string name="btn3">show map</string>
+
+</resources>
